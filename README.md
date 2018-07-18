@@ -8,6 +8,7 @@ Ruby版本管理我使用rbenv。
 ubuntu安裝教學可以參考 https://gist.github.com/sandyxu/8aceec7e436a6ab9621f
 
 mac可以直接brew install rbenv。
+
 brew沒安裝的話要先安裝，在mac上安裝各種東西都靠他。
 
 git要安裝。
