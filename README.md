@@ -22,13 +22,14 @@ terminal的指令大概要會sudo su ls cd chmod mkdir應該就差不多了。
 ## Day5  2018/07/10
 颱風天放假啦。
 這幾天看了https://www.railstutorial.org/book 的1,2,3章。
+
 跟著他一行一行打 https://www.youtube.com/watch?v=7-1HCWbu7iU&index=2&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
 
 介紹一下web怎麼運作 https://www.youtube.com/watch?v=e4S8zfLdLgQ&feature=youtu.be&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc
 
 英國腔很好笑的介紹電腦 https://www.youtube.com/playlist?list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a
 
-在codeacmedy上打ruby練習
+在codeacmedy上打ruby練習。
 簡介了ruby跟rails結構 https://railsbook.tw/
 
 準備面試大概會遇到的問題 https://legacy.gitbook.com/book/unayung/ruby-on-rails-developer-interview-questions/details
