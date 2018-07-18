@@ -19,15 +19,33 @@ terminal的指令大概要會sudo su ls cd chmod mkdir應該就差不多了。
 
 最後就可以rails new yoo_bitch，rails s，就可以在chrome上連到localhost:3000看到可愛地球小婊子了，讚讚。
 
+## Day5  2018/07/10
+颱風天放假啦。
+這幾天看了https://www.railstutorial.org/book 的1,2,3章。
+跟著他一行一行打 https://www.youtube.com/watch?v=7-1HCWbu7iU&index=2&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
+介紹一下web怎麼運作 https://www.youtube.com/watch?v=e4S8zfLdLgQ&feature=youtu.be&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc
+英國腔很好笑的介紹電腦 https://www.youtube.com/playlist?list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a
+在codeacmedy上打ruby練習
+簡介了ruby跟rails結構 https://railsbook.tw/
+準備面試大概會遇到的問題 https://legacy.gitbook.com/book/unayung/ruby-on-rails-developer-interview-questions/details
 
 ## Day6  2018/07/11
+應該是因為昨天放假，所以公司跟我改約07/13。
 
 ## Day8  2018/07/13
+準備的問題面試都沒用上，人生首次面試好害羞哇qq。
 
 ## Day11  2018/07/16
+收到人生第一張offer。
+心情非常好，吃了好多鹽酥雞好爽哇。
 
 ## Day12  2018/07/17
+超級實用的影片，講解很仔細，必看哇 https://www.youtube.com/playlist?list=PLJ6M-k9dQEQ3VsyOZQwjZ5GdjaLJH3eB_
+
+07/24就要上班了!!!
 
 ## Day13  2018/07/18
+繼續看影片，雖然都是基礎的講解，但還好我之前還算有建立一些概念，不然應該會看得很崩潰QQ。
 
 ## Day14  2018/07/19
+
