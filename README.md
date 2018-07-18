@@ -4,7 +4,9 @@ My log of learning process in Ruby on Rails with no background of web developmen
 收到公司的面試通知，約定07/11面試，開始惡補rails知識。
 
 系統重新灌了ubuntu 16.04，筆電是mac，至於在windows上要怎弄我完全不想知道QQ。
+
 Ruby版本管理我使用rbenv。
+
 ubuntu安裝教學可以參考 https://gist.github.com/sandyxu/8aceec7e436a6ab9621f
 
 mac可以直接brew install rbenv。
