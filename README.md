@@ -14,6 +14,7 @@ brew沒安裝的話要先安裝，在mac上安裝各種東西都靠他。
 git要安裝。
 
 其他額外的東西我有裝的是zsh跟spacemacs，覺得vim風格的編輯器麻煩可以裝sublime。
+
 terminal的指令大概要會sudo su ls cd chmod mkdir應該就差不多了。
 
 接下來使用rbenv安裝ruby跟rails跟gem。
